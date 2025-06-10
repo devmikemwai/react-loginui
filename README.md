@@ -4,7 +4,7 @@
 A clean and minimal authentication interface that toggles between **Login** and **Sign-Up** forms with a smooth left-right sliding animation.
 
 ### 💡 Built by [Dev Mike Mwai](https://github.com/devmikemwai)
-                [Dev Mike Mwai Portfolio](https://devmikemwai.co.ke)
+  [Dev Mike Mwai Portfolio](https://devmikemwai.co.ke)
 ---
 
 ## Preview
